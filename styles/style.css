@@ -1,0 +1,65 @@
+*{font-family: 'Merriweather', serif;}
+
+.hero{
+    background-image: url('../styles/Banner Image.png');
+    background-size: cover;
+    width: 1280px;
+    height: 572px;
+    border-radius: 16px;
+    margin-left: 0 20px 0 30px ;
+}
+.hero h3{
+  
+    text-align:center;
+    padding-top: 150px; 
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.hero h1{
+   text-align: center;
+   color: #FFF;
+  font-size: 55px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 95px; 
+  padding: 0px 344px 277px 344px ; 
+  width: 632px;
+  height:190px ;
+}
+
+.offer h3{color: #F00;
+
+  text-align: center;
+  
+  font-size: 68px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-bottom: 10px;}
+  
+  p{color: #F00;
+    text-align: center;
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;}
+    h3{
+      color: #070211;
+
+text-align: center;
+font-family: Inter;
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+    }
+    img{
+ image-align: left;     
+width: 802.9px;
+height: 500px;
+flex-shrink: 0;
+    }
